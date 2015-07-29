@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+  <title><![CDATA[Jody Brewster]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://jodybrewster.net//"/>
+  <updated>2015-07-29T08:51:37.000Z</updated>
+  <id>http://jodybrewster.net//</id>
+  
+  <author>
+    <name><![CDATA[Jody Brewster]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://jodybrewster.net/2015/07/23/hello-world/"/>
+    <id>http://jodybrewster.net/2015/07/23/hello-world/</id>
+    <published>2015-07-23T04:00:00.000Z</published>
+    <updated>2015-07-29T08:51:37.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://s-media-cache-ak0.pinimg.com/736x/60/41/ef/6041ef65602c5d81c38d697bc08acf73.jpg" alt=""></p>
+<h2 id="Hello_World!">Hello World!</h2><p>It’s been 5 years since I’ve done this whole blogging thing.  Looking to get back<br>into it.  Eh, maybe tomorrow.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[First day back!]]>
+    
+    </summary>
+    
+  </entry>
+  
+</feed>
