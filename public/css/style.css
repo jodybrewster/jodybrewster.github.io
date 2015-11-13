@@ -223,7 +223,7 @@ body,
 }
 ::selection {
   color: #fff;
-  background: #3b8dbd;
+  background: #457e9c;
 }
 body {
   background: #eaeaea;
@@ -332,9 +332,15 @@ body {
   clear: both;
 }
 #header {
-  background: #26272b;
+  background: #2c4758;
   padding-bottom: 60px;
   position: relative;
+}
+#header h1 {
+  line-height: 60px;
+  color: #66a4c5;
+  margin-left: 30px;
+  font-size: 23px;
 }
 #header-outer {
   height: 100%;
@@ -345,7 +351,6 @@ body {
 }
 #header-title {
   text-align: center;
-  padding: 30px 30px;
 }
 #header-title:before,
 #header-title:after {
@@ -360,13 +365,12 @@ body {
   float: left;
 }
 #header-title .subtitle-wrap {
-  padding: 10px 0px 0px;
   margin-left: 20px;
 }
 #header-title .subtitle {
-  font-size: 16px;
+  font-size: 12px;
   font-style: italic;
-  line-height: 70px;
+  line-height: 60px;
   color: rgba(255,255,255,0.7);
   text-shadow: 0 1px rgba(0,0,0,0.2);
 }
@@ -539,7 +543,7 @@ body {
   display: none;
 }
 #sidebar .sidebar-top {
-  background: #3b8dbd;
+  background: #457e9c;
   padding: 15px 30px;
 }
 #sidebar .sidebar-top:before,
@@ -659,7 +663,7 @@ body {
   background: rgba(0,0,0,0.02);
 }
 .article-nav-link-wrap:hover .icon {
-  color: #3b8dbd;
+  color: #457e9c;
 }
 .article-nav-caption {
   display: block;
@@ -836,7 +840,7 @@ body {
 }
 #recent-post li .item-inner a a,
 #recent-post li .item-inner .item-category a {
-  color: #3b8dbd;
+  color: #457e9c;
 }
 #recent-post li .item-inner a a:hover,
 #recent-post li .item-inner .item-category a:hover {
@@ -867,7 +871,7 @@ body {
   opacity: 0.8;
 }
 #recent-post li:hover .item-title a {
-  color: #3b8dbd;
+  color: #457e9c;
 }
 .category-list-count,
 .tag-list-count,
@@ -944,7 +948,7 @@ body {
 }
 .article-summary a {
   text-decoration: none;
-  color: #3b8dbd;
+  color: #457e9c;
 }
 .article-summary .article-summary-inner {
   margin-right: 30px;
@@ -1007,7 +1011,7 @@ body {
   opacity: 0.7;
 }
 .article-summary:hover .article-title a {
-  color: #3b8dbd;
+  color: #457e9c;
 }
 .article-category {
   float: left;
@@ -1032,7 +1036,7 @@ body {
   margin-bottom: 10px;
 }
 a.article-title:hover {
-  color: #3b8dbd;
+  color: #457e9c;
 }
 .article-byline {
   margin-bottom: 10px;
@@ -1073,7 +1077,7 @@ a.article-title:hover {
   margin: 1.3em 0;
 }
 .article-entry a {
-  color: #3b8dbd;
+  color: #457e9c;
   text-decoration: none;
 }
 .article-entry a:hover {
@@ -1176,10 +1180,10 @@ a.article-title:hover {
   text-decoration: none;
 }
 .article-more-link a:hover {
-  background: #3b8dbd;
+  background: #457e9c;
   color: #fff;
   text-decoration: none;
-  text-shadow: 0 1px #2f7197;
+  text-shadow: 0 1px #37657d;
 }
 .article-footer {
   font-size: 14px;
@@ -1352,7 +1356,7 @@ a.article-title:hover {
   padding: 30px 30px 20px;
 }
 #comments a {
-  color: #3b8dbd;
+  color: #457e9c;
 }
 .archives-wrap {
   margin: block-margin 0;
@@ -1408,7 +1412,7 @@ a.article-title:hover {
   line-height: 1.6em;
 }
 .archive-article-title:hover {
-  color: #3b8dbd;
+  color: #457e9c;
 }
 .archive-article-footer {
   margin-top: 1em;
@@ -1451,7 +1455,7 @@ a.article-title:hover {
 }
 #page-nav .page-number,
 #page-nav .extend {
-  color: #3b8dbd;
+  color: #457e9c;
   position: relative;
   overflow: hidden;
   font-size: 16px;
@@ -1474,7 +1478,7 @@ a.article-title:hover {
 #page-nav .page-number.current,
 #page-nav .extend.current {
   color: #444;
-  border-bottom: 3px solid #3b8dbd;
+  border-bottom: 3px solid #457e9c;
   border-top: 1px solid #f1f1f1;
 }
 #page-nav .space {
@@ -1632,7 +1636,7 @@ a.article-title:hover {
   margin-left: 20px;
 }
 .article-entry .gist .gist-file .gist-meta a {
-  color: #3b8dbd;
+  color: #457e9c;
   font-weight: normal;
 }
 .article-entry .gist .gist-file .gist-meta a:hover {
@@ -1844,7 +1848,7 @@ i.icon:before {
     color: rgba(255,255,255,0.7);
     text-align: center;
     height: 50px;
-    background: #3b8dbd;
+    background: #457e9c;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -1912,6 +1916,9 @@ i.icon:before {
 @media only screen and (max-width: 479px) {
   .container {
     padding: 0px;
+  }
+  #header h1 {
+    margin-left: 0px;
   }
   #header .logo-wrap {
     width: 100%;
