@@ -1,8 +1,8 @@
 title: "Happy New Year!"
 description: "Happy New Year!"
 date: 2016/01/01 00:00:00
-categories: Ramblings
-tags: uncategorized
+categories:
+tags: 
 ------------------
 
 ![Yes...we have](/images/happy-new-year/new-year.jpg)

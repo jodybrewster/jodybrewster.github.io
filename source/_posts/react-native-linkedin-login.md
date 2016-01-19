@@ -1,7 +1,7 @@
 title: "React Native Linkedin Login"
 description: "I published a React Native plugin to login to Linkedin"
 date: 2016/01/09 00:00:00
-categories: Development
+categories: development
 tags: react-native, react, javascript, android, ios, linkedin, open source, github
 ------------------
 

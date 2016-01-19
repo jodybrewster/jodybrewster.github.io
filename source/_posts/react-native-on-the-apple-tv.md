@@ -1,7 +1,7 @@
 title: "React Native on the Apple TV!"
 description: "Showing off React Native on the Apple TV and some lessons learned so far"
 date: 2015/11/12 00:00:00
-categories: Development
+categories: development
 tags: react-native, react, javascript, apple tv, apple, ios
 ------------------
 
