@@ -5,7 +5,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://jodybrewster.net//"/>
-  <updated>2015-11-13T16:55:42.000Z</updated>
+  <updated>2016-01-19T11:17:54.000Z</updated>
   <id>http://jodybrewster.net//</id>
   
   <author>
@@ -14,6 +14,47 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[React Native Linkedin Login]]></title>
+    <link href="http://jodybrewster.net/2016/09/01/react-native-linkedin-login/"/>
+    <id>http://jodybrewster.net/2016/09/01/react-native-linkedin-login/</id>
+    <published>2016-09-01T04:00:00.000Z</published>
+    <updated>2016-01-19T11:17:54.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="/images/react-native-linkedin-login/linkedin-logo.jpg" alt="Linkedin"></p>
+<p>We had a project come up at work that happened to be in React Native.  One of the<br>requested features for the app was having a way for users to login with their<br>Linkedin accounts. Since the project was deploying to both iOS and Android it had<br>to be built for both. I didn’t really see anything worthwhile out there currently<br>so I created my own and published it out on Github. You can check it out at<br><a href="https://www.github.com/jodybrewster/react-native-linkedin-login" target="_blank" rel="external">https://www.github.com/jodybrewster/react-native-linkedin-login</a>.<br>I’ll have to create a writeup of my experience with React Native projects here at<br>some point so look for that soon.</p>
+<p>Pull requests are welcome! Enjoy!</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[I published a React Native plugin to login to Linkedin]]>
+    
+    </summary>
+    
+      <category term="react-native, react, javascript, android, ios, linkedin, open source, github" scheme="http://jodybrewster.net/tags/react-native-react-javascript-android-ios-linkedin-open-source-github/"/>
+    
+      <category term="Development" scheme="http://jodybrewster.net/categories/Development/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Happy New Year!]]></title>
+    <link href="http://jodybrewster.net/2016/01/01/happy-new-year/"/>
+    <id>http://jodybrewster.net/2016/01/01/happy-new-year/</id>
+    <published>2016-01-01T05:00:00.000Z</published>
+    <updated>2016-01-19T11:29:28.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="/images/happy-new-year/new-year.jpg" alt="Yes...we have"></p>
+<p>Happy New Year peoples!! There’s a lot to be thankful for but more<br>importantly there’s a lot to do this year! My son is finally a year old<br>which means… I MADE IT!!! YAAAAAAY!!!  Without a doubt it’s been tough to say<br>the least and I’m really, really, really looking forward to the new year. I’m<br>so fortunate for everyone in my life and I’m looking forward to big changes<br>in the future and making every day count!  Happy new year everyone!</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[Happy New Year!]]>
+    
+    </summary>
+    
+      <category term="uncategorized" scheme="http://jodybrewster.net/tags/uncategorized/"/>
+    
+      <category term="Uncategorized" scheme="http://jodybrewster.net/categories/Uncategorized/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[React Native on the Apple TV!]]></title>
@@ -52,7 +93,7 @@
     <link href="http://jodybrewster.net/2015/07/23/hello-world/"/>
     <id>http://jodybrewster.net/2015/07/23/hello-world/</id>
     <published>2015-07-23T04:00:00.000Z</published>
-    <updated>2015-11-13T16:45:11.000Z</updated>
+    <updated>2016-01-19T10:41:15.000Z</updated>
     <content type="html"><![CDATA[<p><img src="https://s-media-cache-ak0.pinimg.com/736x/60/41/ef/6041ef65602c5d81c38d697bc08acf73.jpg" alt=""></p>
 <h2 id="Hello_World!">Hello World!</h2><p>It’s been 5 years since I’ve done this whole blogging thing.  Looking to get back<br>into it.  Eh, maybe tomorrow.</p>
 ]]></content>
