@@ -1,7 +1,7 @@
 title: "Happy New Year!"
 description: "Happy New Year!"
 date: 2016/01/01 00:00:00
-categories: Uncategorized
+categories: Ramblings
 tags: uncategorized
 ------------------
 
