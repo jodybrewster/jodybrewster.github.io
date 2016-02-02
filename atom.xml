@@ -5,7 +5,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://jodybrewster.net//"/>
-  <updated>2016-01-19T12:46:06.000Z</updated>
+  <updated>2016-02-02T11:53:17.000Z</updated>
   <id>http://jodybrewster.net//</id>
   
   <author>
@@ -14,6 +14,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Virtual Reality]]></title>
+    <link href="http://jodybrewster.net/2016/02/01/virtual-reality/"/>
+    <id>http://jodybrewster.net/2016/02/01/virtual-reality/</id>
+    <published>2016-02-01T05:00:00.000Z</published>
+    <updated>2016-02-02T11:53:17.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="/images/virtual-reality/vr.jpg" alt="Virtual Reality"></p>
+<p>Just wanted to quickly mention that I have a blog post up on PwC’s Emerging Tech<br>blog on virtual reality across industries.  It was really exciting to be on a project<br>that used an interesting way to deliver VR.  There are so many possibilities to<br>this new medium and this article just scratches the surface.</p>
+<p><a href="http://usblogs.pwc.com/emerging-technology/exploring-the-possibilities-of-virtual-reality-across-industries/" target="_blank" rel="external">Exploring the Possibilities of Virtual Reality across Industries</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[Virtual Reality]]>
+    
+    </summary>
+    
+      <category term="VR, Virtual Reality" scheme="http://jodybrewster.net/tags/VR-Virtual-Reality/"/>
+    
+      <category term="Tech" scheme="http://jodybrewster.net/categories/Tech/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[React Native Linkedin Login]]></title>
