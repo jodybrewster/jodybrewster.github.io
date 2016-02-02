@@ -461,7 +461,7 @@ body {
   background: rgba(0,0,0,0.1);
 }
 .nav-container .nav-container-inner #main-nav .main-nav-list-item .main-nav-list-link {
-  text-transform: uppercase;
+  text-transform: capitalize;
   line-height: 20px;
   padding: 15px 14px;
   font-size: 16px;
@@ -1957,7 +1957,6 @@ i.icon:before {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     font-size: 14px;
-    text-transform: uppercase;
   }
   #header .nav-container #main-nav .main-nav-list-item:before,
   #header .nav-container #main-nav .main-nav-list-link:before,
